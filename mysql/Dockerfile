@@ -5,5 +5,3 @@ RUN apt install mysql
 
 #开放mysql端口
 EXPOSE 3306
-
-#test git
