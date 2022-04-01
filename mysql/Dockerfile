@@ -3,5 +3,5 @@ FROM ubuntu:toshaw
 
 RUN apt install mysql
 
-#声明mysql端口
-EXPOSE 13306
+#开放mysql端口
+EXPOSE 3306
